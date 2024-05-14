@@ -3,7 +3,7 @@
 # Group 15 -- Advancing Data Equity for Environmental Justice
 
 
-!!! Success "Research question"
+# Research question
 
     What data equity model and accountability practices advance environmental justice?
 
