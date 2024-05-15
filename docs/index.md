@@ -2,7 +2,7 @@
 
 # Group 15 -- Advancing Data Equity for Environmental Justice
 
-# Research question: What data equity model and accountability practices advance environmental justice?
+# What data equity model and accountability practices advance environmental justice?
 
 ### Group Members (alpha order): Jeff Altschul, Nels Bjarke, Jess Logan, Nathan Morrow, Maddy Nyblade, Queen Quet
 
@@ -19,7 +19,7 @@
 - HBCUs
 - Existing data sets: Data needs to be extracted, re-framed and strengthened. Put into a model of what needs to be left at the end of the project so the data can still be used in the community it came from.
 
-# Day  Report Back
+# Day 2 Report Back
 
 ### What worked well for your team?
 - Organic way we used our strengths
@@ -31,7 +31,7 @@
 
 ### Did your group have an Ah-Ha Moment? What led up to that moment?
 - Individual Ah-Ha's as we shared around our circle. 
-- Nel’s graph
+- Nel’s graphs
 
 ### Did your group experience the Groan Zone?
 - The ESIIL structure for this topic doesn't fit.
