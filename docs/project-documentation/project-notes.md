@@ -37,7 +37,7 @@ What data equity model and accountability practices advance environmental justic
 - Government officials
 - Tribal groups
 
-
 ## Day 2: March 13, 2024 - CU Boulder
+
 
 ## Day 3: March 14, 2024 - CU Boulder
