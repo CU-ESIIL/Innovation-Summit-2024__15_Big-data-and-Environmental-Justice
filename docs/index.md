@@ -9,7 +9,7 @@
 # Day 3 Report Back
 
 ### Interesting Graphic/Finding
-![](./assets/GrantsEJAmount.png)
+![](.docs/assets/GrantsEJAmount.png)
 
 ### Data Sets:
 
