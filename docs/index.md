@@ -6,6 +6,11 @@
 
 ### Group Members (alpha order): Jeff Altschul, Nels Bjarke, Jess Logan, Nathan Morrow, Maddy Nyblade, Queen Quet
 
+# Day 3 Report Back
+
+### Interesting Graphic/Finding
+![](./assets/GrantsEJAmount.png)
+
 ### Data Sets:
 
 - NSF grant amounts
