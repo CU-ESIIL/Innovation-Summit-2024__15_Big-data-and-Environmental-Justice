@@ -9,6 +9,7 @@
 # Day 3 Report Back
 
 ### Interesting Graphic/Finding
+![](./assets/GrantsEJAmounts.png)
 <img src="https://github.com/CU-ESIIL/Innovation-Summit-2024__15_Big-data-and-Environmental-Justice/blob/main/docs/assets/GrantsEJAmounts.png" /><br /><hr />
 <img src="https://github.com/CU-ESIIL/Innovation-Summit-2024__15_Big-data-and-Environmental-Justice/blob/main/docs/assets/PercNSFGrants.png" /><br /><hr />
 <img src="https://github.com/CU-ESIIL/Innovation-Summit-2024__15_Big-data-and-Environmental-Justice/blob/main/docs/assets/DiffFundVsShare.png" /><hr />
