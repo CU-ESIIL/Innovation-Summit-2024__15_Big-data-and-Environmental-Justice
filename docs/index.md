@@ -25,7 +25,6 @@
 - How do we get to a trusting relationship where trust can define the terms and work together? Trust is not something to be engineered, it is to be earned.
 - Who gets to say what the research questions are?
 
-
 ### What’s missing: what resources, people, data sets, etc. does your team need?
 
 **Data**
@@ -40,15 +39,19 @@
 - Work with the EJ experts - like the [Bullard Center](https://www.bullardcenter.org/)
 - [Southern Environtmental Law Center](https://www.southernenvironment.org/our-focus/environmental-justice/)
 - HCBU's & TCU's
+- American Geophysical Union AGU - Thriving Earth Exchange
 - Local EJ Voices - build the trust and then grow from there
 - Groups writing the calls for funding proposals to learn how to rework the structure to work with the EJ communities appropriately to effectively fund (versus exploit)
-   
+
+**Expectations**
+- EJ communities understand what they need but do not have the funding, tools, and/or capacity. Communities can represent thems with directed questions to groups like ESIIL.
+- Flip the power dynamic. 
+- EJ representatives are looking for tools to take back to their communities to use. How can ESIIL partner with other EJ groups and provide tools and support? Trust can start - I have this tool and provide it to you."
 
 ### What are you thinking about doing next with your team? Long-term, short-term?
 - Personal Connections
 - Long Term - The group has decided it is an important topic. If truly interested in doing the research in it, it would require teasing it out over a longer period of time. Everybody has a different perspective - figure out what is the best approaches to effect change and the process in a positive way. It’s beyond writing an academic paper - its coming up with a new system of making decisions in multiple fields. This is a process 
-- Suggest working with [Bullard Center](https://www.bullardcenter.org/)
-
+- Suggest working with [Bullard Center](https://www.bullardcenter.org/) 
 <hr/>
 ### Data Sets:
 
