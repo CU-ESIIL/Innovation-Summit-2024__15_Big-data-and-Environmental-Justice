@@ -15,15 +15,15 @@
 <br />
 
 ### What’s missing: what resources, people, data sets, etc. does your team need?
-1. Data
+**1. Data**
 - Data sets are not appropriate for what is needed. They need more EJ community participation.
 - How the data is created, stored, and structure needs to be looked at and improved for EJ data. Consider how to be equitable with the data and not exploit the group it is collecting from.
 - Apply the [Principles of Environmental Justice](https://ejnet.org/ej/principles.pdf) to the data structure. 
 - Empower local and/or marginalized groups to manage their destiny or environmental resources. We need to marshal information that demonstrates if you do that (empower) you get to a better outcome so not just a “good thing” or “morally right”, its scientifically the right thing to do for society at large.
 
-2. Culture of Environmental Justice
+**2. Culture of Environmental Justice**
    
-4. People
+**4. People**
    
 
 ### What are you thinking about doing next with your team? Long-term, short-term?
