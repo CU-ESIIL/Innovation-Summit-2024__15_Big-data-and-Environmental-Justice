@@ -10,7 +10,7 @@
 
 ### Interesting Graphic/Finding
 ![](./assets/GrantsEJAmounts.png)<br /><hr />
-![](./assets/PercNSFGrants.pn) <br /><hr />
+![](./assets/PercNSFGrants.png) <br /><hr />
 ![](./assets/DiffFundVsShare.png)<br /><hr />
 
 <br />
